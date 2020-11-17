@@ -5,4 +5,4 @@ Webpack config with express and react
 
 This is a development template.
 Frontend and Backend served from only one server.
-Whit sass enabled.
+With sass enabled.
